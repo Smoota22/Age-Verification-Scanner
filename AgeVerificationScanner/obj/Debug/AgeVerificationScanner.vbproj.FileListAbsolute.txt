@@ -1,0 +1,12 @@
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.vbprojResolveAssemblyReference.cache
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.AgeVerificationScanner.resources
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.Resources.resources
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.vbproj.GenerateResource.cache
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.vbproj.CoreCompileInputs.cache
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\bin\Debug\AgeVerificationScanner.exe.config
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\bin\Debug\AgeVerificationScanner.exe
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\bin\Debug\AgeVerificationScanner.pdb
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\bin\Debug\AgeVerificationScanner.xml
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.exe
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.xml
+C:\Users\smitd\OneDrive\Documents\Visual Studio 2017\Projects\AgeVerificationScanner\AgeVerificationScanner\obj\Debug\AgeVerificationScanner.pdb
